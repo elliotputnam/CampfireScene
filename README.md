@@ -1,2 +1,2 @@
 # CampfireScene
-Serene campfire
+Simple campfire scene, WASD to move
